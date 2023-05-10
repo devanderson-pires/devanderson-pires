@@ -2,10 +2,10 @@
 ### Bem vindo(a) :smile_cat:
 Sou o Anderson, tenho 27 anos, moro no interior de SP e sou apaixonado por tecnologia e café. Adoro aprender coisas novas, então estou sempre estudando 🤓
 ### No dia a dia, eu trabalho com as seguintes tecnologias
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px" /></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="40px" /></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40px" /></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40px" /></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40px" /></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-plain-wordmark.svg" width="40px" /></code>
 
 <br />
 <br />
